@@ -18,7 +18,7 @@
 | Klaus        |               |
 | Manuel       |               |
 | Marcel       |               |
-| Mariusz      |               |
+| Mariusz      | @mzz-cideon              |
 | Markus       |               |
 | Max          | @maxcarl      |
 | Michael      |               |
