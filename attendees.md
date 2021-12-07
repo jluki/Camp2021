@@ -29,7 +29,7 @@
 | Sascha       |               |
 | Sebastian K. |               |
 | Sebastian L. |               |
-| Simon        |               |
+| Simon        | @sisi485      |
 | Stefan       |               |
 | Sven         |               |
 | Tom          |               |
