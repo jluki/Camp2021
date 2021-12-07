@@ -15,7 +15,7 @@
 | Frank        | @FrankMatting    |
 | Hansjoerg    | @sqlonline       |
 | Joachim      | @jluki           |
-| Klaus        |                  |
+| Klaus        | @KlausChristel   |
 | Manuel       | @ManuelBoendel   |
 | Marcel       | @MarcelPeduzzi   |
 | Mariusz      | @mzz-cideon      |
