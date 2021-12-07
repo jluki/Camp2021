@@ -13,7 +13,7 @@
 | Dieter       |               |
 | Florian      |               |
 | Frank        |               |
-| Hansjoerg    |               |
+| Hansjoerg    |     @sqlonline          |
 | Joachim      |               |
 | Klaus        |               |
 | Manuel       |               |
