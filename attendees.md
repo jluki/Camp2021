@@ -19,7 +19,7 @@
 | Manuel       |               |
 | Marcel       |               |
 | Mariusz      |               |
-| Markus       |   MarRich1    |
+| Markus       |   @MarRich1   |
 | Max          |               |
 | Michael      |               |
 | Milena       |               |
