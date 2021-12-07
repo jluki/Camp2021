@@ -5,33 +5,33 @@
 | ------------ | ------------- |
 | Neno         | @NenoLoje     |
 | Marc         | @marc-mueller |
-| Akira        |               |
-| Andreas      |               |
+| Akira        | @Cloudnaut             |
+| Andreas      | AndreasMeiberg             |
 | Christina    |               |
-| Christoph    |               |
+| Christoph    | @chrizzo84    |
 | Daniel       |               |
-| Dieter       |               |
-| Florian      |               |
+| Dieter       | @drgeuder     |
+| Florian      | @Flo19921     |
 | Frank        |               |
-| Hansjoerg    |               |
+| Hansjoerg    |     @sqlonline          |
 | Joachim      |               |
 | Klaus        |               |
 | Manuel       | @ManuelBoendel|
 | Marcel       |               |
-| Mariusz      |               |
-| Markus       |               |
-| Max          |               |
+| Mariusz      | @mzz-cideon   |
+| Markus       | @MarRich1     |
+| Max          | @maxcarl      |
 | Michael      |               |
 | Milena       |               |
-| Oliver       |               |
+| Oliver       | @oliver-hh    |
 | Rainer       |               |
-| Said         |               |
+| Said         | @Said123      |
 | Sascha       |               |
-| Sebastian K. |               |
-| Sebastian L. |               |
-| Simon        |               |
+| Sebastian K. | @cu6e         |
+| Sebastian L. | @sebastianlung|
+| Simon        | @sisi485      |
 | Stefan       |               |
-| Sven         |               |
-| Tom          |               |
+| Sven         | @SvenStaehs   |
+| Tom          | @TomZschaage  |
 | Uwe          |               |
-| Wenjin       |               |
+| Wenjin       |  @exquisitesilens |
