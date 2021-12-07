@@ -11,7 +11,7 @@
 | Christoph    | @chrizzo84    |
 | Daniel       |               |
 | Dieter       | @drgeuder     |
-| Florian      |               |
+| Florian      | @Flo19921     |
 | Frank        |               |
 | Hansjoerg    |               |
 | Joachim      |               |
