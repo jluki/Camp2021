@@ -32,6 +32,6 @@
 | Simon        |               |
 | Stefan       |               |
 | Sven         |               |
-| Tom          |               |
+| Tom          | TomZschaage   |
 | Uwe          |               |
 | Wenjin       |               |
