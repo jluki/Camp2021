@@ -7,7 +7,7 @@
 | Marc         | @marc-mueller |
 | Akira        | @Cloudnaut             |
 | Andreas      | AndreasMeiberg             |
-| Christina    |               |
+| Christina    | @christinatschol              |
 | Christoph    | @chrizzo84    |
 | Daniel       |               |
 | Dieter       | @drgeuder     |
