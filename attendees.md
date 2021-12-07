@@ -20,7 +20,7 @@
 | Marcel       |               |
 | Mariusz      |               |
 | Markus       |               |
-| Max          |               |
+| Max          | @maxcarl      |
 | Michael      |               |
 | Milena       |               |
 | Oliver       |               |
