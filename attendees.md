@@ -24,7 +24,7 @@
 | Michael      | @MicE44          |
 | Milena       |                  |
 | Oliver       | @oliver-hh       |
-| Rainer       |                  |
+| Rainer       | @rschue          |
 | Said         | @Said123         |
 | Sascha       | @dichternebel    |
 | Sebastian K. | @cu6e            |
