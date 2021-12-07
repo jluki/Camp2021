@@ -18,8 +18,8 @@
 | Klaus        |               |
 | Manuel       |               |
 | Marcel       |               |
-| Mariusz      | @mzz-cideon              |
-| Markus       |               |
+| Mariusz      | @mzz-cideon   |
+| Markus       | @MarRich1     |
 | Max          | @maxcarl      |
 | Michael      |               |
 | Milena       |               |
