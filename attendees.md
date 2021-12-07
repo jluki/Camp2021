@@ -31,7 +31,7 @@
 | Sebastian L. |               |
 | Simon        |               |
 | Stefan       |               |
-| Sven         |               |
+| Sven         | @SvenStaehs   |
 | Tom          |               |
 | Uwe          |               |
 | Wenjin       |               |
