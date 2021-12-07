@@ -6,7 +6,7 @@
 | Neno         | @NenoLoje     |
 | Marc         | @marc-mueller |
 | Akira        |               |
-| Andreas      |               |
+| Andreas      | AndreasMeiberg             |
 | Christina    |               |
 | Christoph    | @chrizzo84    |
 | Daniel       |               |
