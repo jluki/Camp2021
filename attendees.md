@@ -7,7 +7,7 @@
 | Marc         | @marc-mueller |
 | Akira        |               |
 | Andreas      |               |
-| Christina    |               |
+| Christina    |  @christinatschol             |
 | Christoph    |               |
 | Daniel       |               |
 | Dieter       |               |
