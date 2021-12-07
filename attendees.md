@@ -5,7 +5,7 @@
 | ------------ | ------------- |
 | Neno         | @NenoLoje     |
 | Marc         | @marc-mueller |
-| Akira        |               |
+| Akira        | @Cloudnaut    |
 | Andreas      |               |
 | Christina    |               |
 | Christoph    |               |
