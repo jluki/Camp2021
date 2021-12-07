@@ -23,7 +23,7 @@
 | Max          | @maxcarl      |
 | Michael      |               |
 | Milena       |               |
-| Oliver       |               |
+| Oliver       | @oliver-hh    |
 | Rainer       |               |
 | Said         |               |
 | Sascha       |               |
