@@ -14,7 +14,7 @@
 | Florian      | @Flo19921        |
 | Frank        |                  |
 | Hansjoerg    | @sqlonline       |
-| Joachim      |                  |
+| Joachim      | @jluki           |
 | Klaus        |                  |
 | Manuel       | @ManuelBoendel   |
 | Marcel       | @MarcelPeduzzi   |
