@@ -27,7 +27,7 @@
 | Rainer       |               |
 | Said         |               |
 | Sascha       |               |
-| Sebastian K. |               |
+| Sebastian K. | @cu6e         |
 | Sebastian L. |               |
 | Simon        |               |
 | Stefan       |               |
