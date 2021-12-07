@@ -6,32 +6,32 @@
 | Neno         | @NenoLoje     |
 | Marc         | @marc-mueller |
 | Akira        |               |
-| Andreas      |               |
+| Andreas      | AndreasMeiberg             |
 | Christina    |               |
-| Christoph    |               |
+| Christoph    | @chrizzo84    |
 | Daniel       |               |
-| Dieter       |               |
-| Florian      |               |
+| Dieter       | @drgeuder     |
+| Florian      | @Flo19921     |
 | Frank        |               |
 | Hansjoerg    |               |
 | Joachim      |               |
 | Klaus        |               |
 | Manuel       |               |
 | Marcel       |               |
-| Mariusz      |               |
-| Markus       |               |
-| Max          |               |
+| Mariusz      | @mzz-cideon   |
+| Markus       | @MarRich1     |
+| Max          | @maxcarl      |
 | Michael      |               |
 | Milena       |               |
-| Oliver       |               |
+| Oliver       | @oliver-hh    |
 | Rainer       |               |
 | Said         | @Said123      |
 | Sascha       |               |
-| Sebastian K. |               |
-| Sebastian L. |               |
-| Simon        |               |
+| Sebastian K. | @cu6e         |
+| Sebastian L. | @sebastianlung|
+| Simon        | @sisi485      |
 | Stefan       |               |
-| Sven         |               |
+| Sven         | @SvenStaehs   |
 | Tom          |               |
 | Uwe          |               |
-| Wenjin       |               |
+| Wenjin       |  @exquisitesilens |
