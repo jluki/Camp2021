@@ -21,7 +21,7 @@
 | Mariusz      | @mzz-cideon   |
 | Markus       | @MarRich1     |
 | Max          | @maxcarl      |
-| Michael      |               |
+| Michael      | @MicE44              |
 | Milena       |               |
 | Oliver       | @oliver-hh    |
 | Rainer       |               |
@@ -35,3 +35,4 @@
 | Tom          | @TomZschaage  |
 | Uwe          | @wauwe              |
 | Wenjin       |  @exquisitesilens |
+
