@@ -33,5 +33,5 @@
 | Stefan       |               |
 | Sven         |               |
 | Tom          |               |
-| Uwe          |               |
+| Uwe          | @wauwe        |
 | Wenjin       |               |
