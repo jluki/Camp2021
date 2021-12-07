@@ -16,7 +16,7 @@
 | Hansjoerg    |     @sqlonline          |
 | Joachim      |               |
 | Klaus        |               |
-| Manuel       |               |
+| Manuel       | @ManuelBoendel|
 | Marcel       |               |
 | Mariusz      | @mzz-cideon   |
 | Markus       | @MarRich1     |
