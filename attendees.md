@@ -30,7 +30,7 @@
 | Sebastian K. | @cu6e         |
 | Sebastian L. | @sebastianlung|
 | Simon        | @sisi485      |
-| Stefan       |               |
+| Stefan       |  @SteveK83             |
 | Sven         | @SvenStaehs   |
 | Tom          | @TomZschaage  |
 | Uwe          |               |
