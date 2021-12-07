@@ -10,7 +10,7 @@
 | Christina    |               |
 | Christoph    | @chrizzo84    |
 | Daniel       |               |
-| Dieter       |               |
+| Dieter       | @drgeuder     |
 | Florian      |               |
 | Frank        |               |
 | Hansjoerg    |               |
