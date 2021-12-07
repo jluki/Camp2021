@@ -6,11 +6,11 @@
 | Neno         | @NenoLoje     |
 | Marc         | @marc-mueller |
 | Akira        |               |
-| Andreas      |               |
+| Andreas      | AndreasMeiberg             |
 | Christina    |               |
-| Christoph    |               |
+| Christoph    | @chrizzo84    |
 | Daniel       |               |
-| Dieter       |               |
+| Dieter       | @drgeuder     |
 | Florian      |               |
 | Frank        |               |
 | Hansjoerg    |               |
@@ -18,20 +18,20 @@
 | Klaus        |               |
 | Manuel       |               |
 | Marcel       |               |
-| Mariusz      |               |
-| Markus       |   @MarRich1   |
-| Max          |               |
+| Mariusz      | @mzz-cideon   |
+| Markus       | @MarRich1     |
+| Max          | @maxcarl      |
 | Michael      |               |
 | Milena       |               |
 | Oliver       |               |
 | Rainer       |               |
 | Said         |               |
 | Sascha       |               |
-| Sebastian K. |               |
-| Sebastian L. |               |
+| Sebastian K. | @cu6e         |
+| Sebastian L. | @sebastianlung|
 | Simon        |               |
 | Stefan       |               |
-| Sven         |               |
+| Sven         | @SvenStaehs   |
 | Tom          |               |
 | Uwe          |               |
 | Wenjin       |               |
