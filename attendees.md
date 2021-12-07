@@ -28,7 +28,7 @@
 | Said         |               |
 | Sascha       |               |
 | Sebastian K. | @cu6e         |
-| Sebastian L. |               |
+| Sebastian L. | @sebastianlung|
 | Simon        |               |
 | Stefan       |               |
 | Sven         |               |
