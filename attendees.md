@@ -8,7 +8,7 @@
 | Akira        |               |
 | Andreas      |               |
 | Christina    |               |
-| Christoph    |               |
+| Christoph    | @chrizzo84    |
 | Daniel       |               |
 | Dieter       |               |
 | Florian      |               |
