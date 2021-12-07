@@ -21,7 +21,7 @@
 | Mariusz      |               |
 | Markus       |               |
 | Max          |               |
-| Michael      |               |
+| Michael      | @MicE44       |
 | Milena       |               |
 | Oliver       |               |
 | Rainer       |               |
