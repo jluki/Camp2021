@@ -33,5 +33,5 @@
 | Stefan       |  @SteveK83             |
 | Sven         | @SvenStaehs   |
 | Tom          | @TomZschaage  |
-| Uwe          |               |
+| Uwe          | @wauwe              |
 | Wenjin       |  @exquisitesilens |
