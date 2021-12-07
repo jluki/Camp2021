@@ -32,6 +32,6 @@
 | Simon        | @sisi485      |
 | Stefan       |               |
 | Sven         | @SvenStaehs   |
-| Tom          |               |
+| Tom          | @TomZschaage  |
 | Uwe          |               |
 | Wenjin       |  @exquisitesilens |
