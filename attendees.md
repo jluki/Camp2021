@@ -17,7 +17,7 @@
 | Joachim      |               |
 | Klaus        |               |
 | Manuel       | @ManuelBoendel|
-| Marcel       |               |
+| Marcel       | @MarcelPeduzzi|
 | Mariusz      | @mzz-cideon   |
 | Markus       | @MarRich1     |
 | Max          | @maxcarl      |
