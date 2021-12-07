@@ -12,7 +12,7 @@
 | Daniel       |                  |
 | Dieter       | @drgeuder        |
 | Florian      | @Flo19921        |
-| Frank        |                  |
+| Frank        | @FrankMatting    |
 | Hansjoerg    | @sqlonline       |
 | Joachim      | @jluki           |
 | Klaus        |                  |
